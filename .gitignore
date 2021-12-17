@@ -1,0 +1,8 @@
+build/**
+.vs/**
+AndroidBuild/**
+Binaries/**
+Constent/StartContent/**
+Saved/*
+Intermediate/*
+DerivedDataCache/*
