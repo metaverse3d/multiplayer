@@ -2,7 +2,7 @@ build/**
 .vs/**
 AndroidBuild/**
 Binaries/**
-Constent/StartContent/**
+Content/StarterContent//**
 Saved/*
 Intermediate/*
 DerivedDataCache/*
